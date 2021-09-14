@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joseamorone
-- 👀 I’m interested in Software Development, Computer Science, Math and Physics!
+- 👀 I’m interested in Software Development, Computer Science and Math!
 - 🌱 I’m currently learning Computer Science and Full Stack and Blockchain development with JavaScript, Python, Django and Solidity.
 - 💞️ I’m looking to collaborate on Backend and Blockchain projects
 - 📫 How to reach me jose.amorone@gmail.com
