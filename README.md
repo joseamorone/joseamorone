@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseamorone
-- 👀 I’m interested in Software Development, Computer Science and Math!
-- 🌱 I’m currently learning Ruby on the Core Curriculum at Launch School.
+- 👀 I’m interested in Software Development, Computer Science, Blockchain and Math!
+- 🌱 I’m currently learning Full Stack Software Development at Apx.
 - 💞️ I’m looking to collaborate on Backend projects.
 - 📫 How to reach me jose.amorone@gmail.com
 
