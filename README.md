@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joseamorone
-- 👀 I’m interested in Software Development, Computer Science, Blockchain and Math!
-- 🌱 I’m currently learning Full Stack Software Development at App Academy Open.
-- 💞️ I’m looking to collaborate on Backend projects.
+- 👀 I’m interested in Data Science, Machine Learning and Databases.
+- 🌱 I’m currently learning Data Science and Machine Learning.
+- 💞️ I’m looking to collaborate on Data Science / Machine Learning Projects.
 - 📫 How to reach me jose.amorone@gmail.com
 
 <!---
