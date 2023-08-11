@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joseamorone
-- 👀 I’m interested in Data Science, Machine Learning and Databases.
-- 🌱 I’m currently learning Data Science and Machine Learning.
-- 💞️ I’m looking to collaborate on Data Science / Machine Learning Projects.
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning software engineering.
+- 💞️ I’m looking to collaborate on Front End Projects.
 - 📫 How to reach me jose.amorone@gmail.com
 
 <!---
