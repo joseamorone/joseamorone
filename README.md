@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseamorone
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning software engineering.
+- 👀 I’m interested in Computer Science and Software Engineering.
+- 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on Front End Projects.
 - 📫 How to reach me jose.amorone@gmail.com
 
